@@ -1,0 +1,6 @@
+// Toy data
+private static final Toy[] TOYS = {
+    new Toy("1 конструктор 20"),
+    new Toy("2 робот 20"),
+    new Toy("3 кукла 60")
+};
